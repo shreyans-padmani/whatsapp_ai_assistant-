@@ -1,0 +1,480 @@
+{
+  "restaurant_details": {
+    "name": "Vasilchuki Chaihona No. 1",
+    "cuisine": "Multi-Cuisine (Eastern European, Middle Eastern, Asian, Greek)",
+    "contact_info": {
+      "phone": "+971 457 237 85",
+      "email": "info@vasilchuki.ae"
+    },
+    "menu_pdf_link": "https://cdn.prod.website-files.com/655f2a27b3cf48fe4f16bf58/691ee42cd854717db9d5210a_menu.pdf",
+    "address": "G Floor, Marina Promenade, Dubai Marina, Dubai, United Arab Emirates",
+    "google_maps_link": "http://maps.google.com/?q=Vasilchuki+Chaihona+No+1+Dubai",
+    "reservation_policy": "Reservations recommended. Book online or call."
+  },
+  "operating_hours": {
+    "weekdays": "9:00 AM - 01:00 AM",
+    "weekends": "9:00 AM - 01:00 AM",
+    "special_note": "Open daily"
+  },
+  "menu": {
+    "STARTERS": [
+      {
+        "name": "Kamchatka Bruschetta",
+        "price": "AED 115",
+        "desc": "Kamchatka crab leg, creamy avocado, cherry tomatoes, Japanese mayonnaise."
+      },
+      {
+        "name": "Zucchini Draniki With Salmon",
+        "price": "AED 75",
+        "desc": "Zucchini pancake with guacamole sauce and yogurt mayo."
+      },
+      {
+        "name": "Salmon Croissant",
+        "price": "AED 85",
+        "desc": "Croissant with sundried tomato, arugula, quail eggs, salmon."
+      },
+      {
+        "name": "Avocado Bruschetta with Goat Cheese",
+        "price": "AED 75",
+        "desc": "Tartine bread with goat cheese and avocado."
+      },
+      {
+        "name": "Corn Ribs",
+        "price": "AED 65",
+        "desc": "Spicy fried corn ribs."
+      },
+      {
+        "name": "Crab Roll",
+        "price": "AED 85",
+        "desc": "Crab salad in equal parts."
+      },
+      {
+        "name": "Quesadilla",
+        "price": "AED 45",
+        "desc": "Al pastor chicken with cheese."
+      },
+      {
+        "name": "Padron Pepper",
+        "price": "AED 45",
+        "desc": "Grilled peppers with sea salt."
+      },
+      {
+        "name": "Shrimp Toast",
+        "price": "AED 55",
+        "desc": "Crispy toast with shrimp paste."
+      },
+      {
+        "name": "Prawn Flauta",
+        "price": "AED 55",
+        "desc": "Crispy rolled tacos with prawns."
+      },
+      {
+        "name": "Tacos",
+        "price": "AED 55",
+        "desc": "Beef birria tacos."
+      },
+      {
+        "name": "Chicken Satay",
+        "price": "AED 45",
+        "desc": "Chicken skewers with peanut sauce."
+      },
+      {
+        "name": "Beef Satay",
+        "price": "AED 55",
+        "desc": "Skewered beef with peanut sauce."
+      }
+    ],
+    "SALADS": [
+      {
+        "name": "Asian Eggplant Salad",
+        "price": "AED 60",
+        "desc": "Fried eggplant with asian dressing."
+      },
+      {
+        "name": "Classic Oliver Salad",
+        "price": "AED 55",
+        "desc": "Potato salad with meat and vegetables."
+      },
+      {
+        "name": "Vegetable Salad",
+        "price": "AED 49",
+        "desc": "Fresh garden vegetables."
+      },
+      {
+        "name": "Crab Salad",
+        "price": "AED 110",
+        "desc": "With real crab meat."
+      },
+      {
+        "name": "Salmon & Quinoa Bowl",
+        "price": "AED 90",
+        "desc": "Healthy bowl with fish and grains."
+      },
+      {
+        "name": "Caesar Salad",
+        "price": "AED 80",
+        "desc": "Classic Caesar with chicken."
+      },
+      {
+        "name": "Quinoa Salad",
+        "price": "AED 70",
+        "desc": "Quinoa with mixed vegetables."
+      },
+      {
+        "name": "Achichuk Salad",
+        "price": "AED 40",
+        "desc": "Traditional tomato and onion salad."
+      },
+      {
+        "name": "Burrata",
+        "price": "AED 85",
+        "desc": "Fresh burrata cheese with tomatoes."
+      },
+      {
+        "name": "Steak Salad",
+        "price": "AED 85",
+        "desc": "Greens topped with grilled steak slices."
+      },
+      {
+        "name": "Stracciatella Salad",
+        "price": "AED 75",
+        "desc": "With Uzbek tomatoes and crispy eggplant."
+      },
+      {
+        "name": "Fruit Salad",
+        "price": "AED 32",
+        "desc": "Fresh cut fruits."
+      }
+    ],
+    "SOUPS": [
+      {
+        "name": "Homemade Borscht",
+        "price": "AED 95",
+        "desc": "With Borodinsky bread & Beef ribs."
+      },
+      {
+        "name": "Chicken Soup",
+        "price": "AED 30",
+        "desc": "Light chicken broth."
+      }
+    ],
+    "BAKED": [
+      {
+        "name": "Gaziantep Pide",
+        "price": "AED 75",
+        "desc": "Turkish pide with ground beef, tomato, red bell pepper, mozzarella."
+      },
+      {
+        "name": "Mini Adjarian Khachapuri",
+        "price": "AED 32",
+        "desc": "Cheese pastry with egg."
+      },
+      {
+        "name": "Mini Pizza",
+        "price": "AED 32",
+        "desc": "Small cheese and tomato pizza."
+      },
+      {
+        "name": "Tomato-Cheese Picha-Non",
+        "price": "AED 50",
+        "desc": "Thin flatbread with cheese and tomato."
+      },
+      {
+        "name": "Adjarian Khachapuri",
+        "price": "AED 60",
+        "desc": "Cheese boat with egg yolk."
+      },
+      {
+        "name": "Mangal Khachapuri",
+        "price": "AED 65",
+        "desc": "Chargrilled dough stuffed with cheese."
+      }
+    ],
+    "STEAMED": [
+      {
+        "name": "Lamb Khinkali (3 pcs)",
+        "price": "AED 50",
+        "desc": "Steamed dumplings with lamb."
+      },
+      {
+        "name": "Beef Khinkali (3 pcs)",
+        "price": "AED 50",
+        "desc": "Steamed dumplings with beef."
+      },
+      {
+        "name": "Crab Manti",
+        "price": "AED 90",
+        "desc": "Dumplings with crab meat in tom yum broth."
+      }
+    ],
+    "FRIED": [
+      {
+        "name": "Lamb Cheburek",
+        "price": "AED 45",
+        "desc": "Deep fried pastry with lamb."
+      },
+      {
+        "name": "Veal Cheburek",
+        "price": "AED 45",
+        "desc": "Deep fried pastry with veal."
+      },
+      {
+        "name": "Chicken Cutlet",
+        "price": "AED 35",
+        "desc": "Served with mashed potato."
+      },
+      {
+        "name": "Kids Fries",
+        "price": "AED 20",
+        "desc": "French fries."
+      }
+    ],
+    "GRILL": [
+      {
+        "name": "Chicken Kofta With Cheddar Cheese",
+        "price": "AED 90",
+        "desc": "Grilled chicken kofta."
+      },
+      {
+        "name": "Lamb Shashlik",
+        "price": "AED 95",
+        "desc": "Grilled lamb skewers."
+      },
+      {
+        "name": "Fried Marbled Beef",
+        "price": "AED 110",
+        "desc": "Pan fried premium beef."
+      },
+      {
+        "name": "Uzbek Lamb Chops",
+        "price": "AED 110",
+        "desc": "With laser rice pilaf and yellow carrots."
+      },
+      {
+        "name": "Chicken Shawarma COMBO",
+        "price": "AED 85",
+        "desc": "Grilled chicken shawarma with fries and drink."
+      },
+      {
+        "name": "Beef Shawarma COMBO",
+        "price": "AED 85",
+        "desc": "Grilled beef shawarma with fries and drink."
+      },
+      {
+        "name": "Shrimp Shawarma COMBO",
+        "price": "AED 85",
+        "desc": "Grilled shrimp shawarma with fries and drink."
+      },
+      {
+        "name": "Chef's Shawarma Special",
+        "price": "AED 65",
+        "desc": "Special chef recipe shawarma."
+      }
+    ],
+    "HOT DISHES": [
+      {
+        "name": "Scrambled Eggs With Parmesan Espuma",
+        "price": "AED 65",
+        "desc": "Creamy scrambled eggs with Parmesan espuma, brioche and black truffles."
+      },
+      {
+        "name": "Eggs Royale",
+        "price": "AED 85",
+        "desc": "Poached eggs on toasted Brioche, smoked salmon, hollandaise."
+      },
+      {
+        "name": "Chicken Pancakes",
+        "price": "AED 70",
+        "desc": "Savory chicken pancakes."
+      },
+      {
+        "name": "Turkish Eggs",
+        "price": "AED 55",
+        "desc": "Eggs with kiwi sauce, Philadelphia cheese, and fresh coriander."
+      },
+      {
+        "name": "Homemade Pancakes",
+        "price": "AED 45",
+        "desc": "With jam, condensed milk, or sour cream."
+      },
+      {
+        "name": "Turkish Breakfast",
+        "price": "AED 120",
+        "desc": "Menemen, sujuk, cheese rolls, breads, olives, tomatoes, cheeses, kaymak."
+      },
+      {
+        "name": "Oatmeal porridge with Chocolate Cookies",
+        "price": "AED 55",
+        "desc": "Coconut milk, walnuts, pistachios, berry sauce."
+      },
+      {
+        "name": "Mac and Cheese",
+        "price": "AED 35",
+        "desc": "Pasta in cheese sauce."
+      },
+      {
+        "name": "Smash Burger",
+        "price": "AED 75",
+        "desc": "Wagyu burger with onion jam and bacon."
+      },
+      {
+        "name": "Beef Burger",
+        "price": "AED 75",
+        "desc": "Potato bun, beef patty, cheddar, pepper sauce."
+      },
+      {
+        "name": "Beef Dumplings",
+        "price": "AED 65",
+        "desc": "In sour cream sauce with sun-dried tomatoes."
+      },
+      {
+        "name": "Homemade Veal Cutlet",
+        "price": "AED 85",
+        "desc": "With mashed potato and truffle sauce."
+      },
+      {
+        "name": "Orzo with Seafood",
+        "price": "AED 95",
+        "desc": "Shrimp broth, butter, feta cheese."
+      },
+      {
+        "name": "Paccheri Pasta",
+        "price": "AED 85",
+        "desc": "Baked with beef and tomato sauce."
+      },
+      {
+        "name": "Chicken Curry",
+        "price": "AED 75",
+        "desc": "Creamy chicken curry."
+      },
+      {
+        "name": "Hot dog",
+        "price": "AED 45",
+        "desc": "Beef hotdog with mustard, ketchup, pickles, onions."
+      }
+    ],
+    "SIDES": [
+      {
+        "name": "Laser Rice Pilaf",
+        "price": "Ask Server",
+        "desc": "Traditional rice pilaf."
+      }
+    ],
+    "DESSERTS": [
+      {
+        "name": "Pavlova",
+        "price": "AED 65",
+        "desc": "Signature dessert."
+      },
+      {
+        "name": "Syrniki",
+        "price": "AED 75",
+        "desc": "Served with sour cream and vanilla sauce."
+      },
+      {
+        "name": "Cottage Cheese w/Berries Honeycomb",
+        "price": "AED 85",
+        "desc": "Creamy cottage cheese with fresh berries and honeycomb."
+      },
+      {
+        "name": "Pancake With Cottage Cheese",
+        "price": "AED 30",
+        "desc": "Sweet cheese filled pancake."
+      },
+      {
+        "name": "Cake Pops",
+        "price": "AED 32",
+        "desc": "Chocolate coated cake balls."
+      },
+      {
+        "name": "Signature Pavlova",
+        "price": "AED 65",
+        "desc": "Mille-feuille style with berries."
+      },
+      {
+        "name": "Seasonal Fruit Tart",
+        "price": "AED 45",
+        "desc": "Cherry or raspberry."
+      },
+      {
+        "name": "Creme Brulee",
+        "price": "AED 50",
+        "desc": "With passion fruit."
+      },
+      {
+        "name": "Tiramisu",
+        "price": "AED 55",
+        "desc": "Classic coffee dessert."
+      },
+      {
+        "name": "Honey Cake",
+        "price": "AED 50",
+        "desc": "Layered honey cake."
+      }
+    ],
+    "SMOOTHIE & DETOX": [
+      {
+        "name": "Green Detox",
+        "price": "AED 40",
+        "desc": "Kiwi, banana, ginger, spinach, matcha."
+      }
+    ],
+    "SOFT DRINKS": [
+      {
+        "name": "Tarragon Lemonade (1L)",
+        "price": "AED 65",
+        "desc": "Homemade tarragon soda."
+      },
+      {
+        "name": "Duchesse (1L)",
+        "price": "AED 70",
+        "desc": "Pear lemonade."
+      },
+      {
+        "name": "Red Bull",
+        "price": "AED 25",
+        "desc": "Energy drink."
+      }
+    ],
+    "FRESH JUICE": [
+      {
+        "name": "Orange Juice",
+        "price": "AED 35",
+        "desc": "Freshly squeezed."
+      }
+    ],
+    "COFFEE": [
+      {
+        "name": "Espresso",
+        "price": "AED 20",
+        "desc": "Single shot."
+      },
+      {
+        "name": "Cappuccino",
+        "price": "AED 25",
+        "desc": "Milk coffee."
+      },
+      {
+        "name": "Latte",
+        "price": "AED 25",
+        "desc": "Milky coffee."
+      }
+    ],
+    "WATER": [
+      {
+        "name": "Water (Large)",
+        "price": "AED 25",
+        "desc": "Still or sparkling."
+      }
+    ],
+    "MOCKTAILS": [],
+    "MILKSHAKES": [],
+    "MATCHA COLLECTION": [],
+    "ICED COFFEE": [],
+    "TEA": [],
+    "ICED TEA": [],
+    "N / A SPARKLING WINE": [],
+    "N / A WINE": [],
+    "N / A BEER & KVASS": []
+  }
+}
